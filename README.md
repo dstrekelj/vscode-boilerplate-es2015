@@ -4,7 +4,7 @@ A boilerplate project set up for writing and debugging ES2015 compliant code.
 
 ## Environment
 
-Visual Studio Code v1.6.0, Node v6, NPM v3.
+Visual Studio Code v1.6, Node v6, NPM v3.
 
 ## Instructions
 
